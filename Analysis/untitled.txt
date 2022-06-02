@@ -1,0 +1,8 @@
+1. 데이터 분석 라이브러리
+(1) numpy
+    - 벡터 및 행렬 연산과 관련된 편리한 기능 제공
+    - 배열과 관련된 연산을 제공
+    - pip install numpy
+    - http://numpy.org
+(2) pandas
+(3) matplotlib
