@@ -5,4 +5,9 @@
     - pip install numpy
     - http://numpy.org
 (2) pandas
+    - Series, DataFrame 등의 자료구조를 활용하여 데이터 분석에 있어서 우수한 성능을 발휘
+    - 대량의 데이터를 빠른 속도로 처리
+    - 데이터 분석의 메인 도구
 (3) matplotlib
+    - 시각화
+    - seaborn
